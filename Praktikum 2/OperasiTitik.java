@@ -1,3 +1,9 @@
+/* 
+* OperasiTitik.java 01/03/2023
+* Penulis : Yesy Margharetta Munthe
+* NIM : 24060121120031
+* Deskripsi : Kelas yang berisi program  titik
+*/
 public class OperasiTitik {
 
     // Private method
