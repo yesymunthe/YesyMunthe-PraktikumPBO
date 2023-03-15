@@ -3,7 +3,6 @@
  * Penulis      : Yesy Margharetta Munthe
  */
 
-
 class MTimSepakbola {
   public static void main(String[] args) {
     // TODO: Make an instance called 'liverpool' -> use constructor which you have made before
