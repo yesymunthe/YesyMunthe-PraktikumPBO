@@ -13,7 +13,7 @@ public class AngkaSial{
 		System.out.println(angka+" bukan angka sial");
 	}
 	
-	public static void main(String [] argas){
+	public static void main(String [] args){
 		AngkaSial as = new AngkaSial();
 		try{
 			as.cobaAngka(10);
