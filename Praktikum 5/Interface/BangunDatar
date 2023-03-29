@@ -1,0 +1,8 @@
+/**
+ * File         : BangunDatar.java 29/03/2023
+ * Penulis      : Yesy Margharetta Munthe
+ * Deskripsi    : File class implementasi method dari abstract class bangun datar
+ */
+ public interface IArea {
+    public double hitungLuas();
+}
